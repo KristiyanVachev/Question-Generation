@@ -1,0 +1,826 @@
+﻿ArticleTitle	Question	Answer	DifficultyFromQuestioner	DifficultyFromAnswerer	ArticleFile
+Alessandro_Volta	Was Volta an Italian physicist?	yes	easy	easy	S09_set4_a10
+Alessandro_Volta	Was Volta an Italian physicist?	yes	easy	easy	S09_set4_a10
+Alessandro_Volta	Is Volta buried in the city of Pittsburgh?	no	easy	easy	S09_set4_a10
+Alessandro_Volta	Is Volta buried in the city of Pittsburgh?	no	easy	easy	S09_set4_a10
+Alessandro_Volta	Did Volta have a passion for the study of electricity?	yes	easy	medium	S09_set4_a10
+Alessandro_Volta	Did Volta have a passion for the study of electricity?	yes	easy	easy	S09_set4_a10
+Alessandro_Volta	What is the battery made by Volta credited to be?	the first cell	medium	medium	S09_set4_a10
+Alessandro_Volta	What is the battery made by Volta credited to be?	the first cell	medium	medium	S09_set4_a10
+Alessandro_Volta	What important electrical unit was named in honor of Volta?	the volt	medium	medium	S09_set4_a10
+Alessandro_Volta	What important electrical unit was named in honor of Volta?	volt	medium	medium	S09_set4_a10
+Alessandro_Volta	Where did Volta enter retirement?	Spain	medium	medium	S09_set4_a10
+Alessandro_Volta	Where did Volta enter retirement?	Spain	medium	medium	S09_set4_a10
+Alessandro_Volta	Is it a disadvantage for something to be unsafe to handle?	yes	hard	too hard	S09_set4_a10
+Alessandro_Volta	Is it a disadvantage for something to be unsafe to handle?	yes	hard	easy	S09_set4_a10
+Alessandro_Volta	Was Lombardy under Napoleon's rule in 1800?	yes	hard	hard	S09_set4_a10
+Alessandro_Volta	Was Lombardy under Napoleon's rule in 1800?	yes	hard	hard	S09_set4_a10
+Alessandro_Volta	Was the Italian 10.000 lira banknote created before the euro?	yes	hard	hard	S09_set4_a10
+Alessandro_Volta	Was the Italian 10.000 lira banknote created before the euro?	yes	hard	easy	S09_set4_a10
+Alessandro_Volta	For how many years did Alessandro Volta live?	53	NULL	medium	S09_set4_a10
+Alessandro_Volta	Did Alessandro Volta live to be 80 years old?	no	NULL	easy	S09_set4_a10
+Alessandro_Volta	What was Alessandro Volta`s profession?	physisist	NULL	easy	S09_set4_a10
+Alessandro_Volta	How old was Alessandro Volta when he died?	 82	NULL	hard	S09_set4_a10
+Alessandro_Volta	How many years ago was it when Volta married the daughter of Count Ludovico Peregrini , Teresa , with whom he raised three sons?	215	NULL	hard	S09_set4_a10
+Alessandro_Volta	Is the electrolyte sulphuric acid?	Yes	NULL	easy	S09_set4_a10
+Alessandro_Volta	Is volta buried in the city  of Como?	Yes	NULL	easy	S09_set4_a10
+Alessandro_Volta	Was his 1800  paper written in French?	Yes	NULL	easy	S09_set4_a10
+Alessandro_Volta	Before 1796, was Lombardy ruled by Austria?	yes	NULL	medium	S09_set4_a10
+Alessandro_Volta	Did he receive the Society`s 1794 Copley Medal?	Yes	NULL	easy	S09_set4_a10
+Alessandro_Volta	Did he experiment with individual cells?	Yes	NULL	easy	S09_set4_a10
+Alessandro_Volta	When did lombardy come under Napoleon`s rule?	From 1796 to 1815	NULL	easy	S09_set4_a10
+Alessandro_Volta	Where did he publish his invention of the Voltaic pile battery?	the Philosophical Transactions of the Royal Society	NULL	medium	S09_set4_a10
+Alessandro_Volta	Did he become professor of experimental physics at the University of Pavia?	Yes	NULL	easy	S09_set4_a10
+Alessandro_Volta	Is it true that his passion been always the study of electricity?	Yes	NULL	easy	S09_set4_a10
+Alessandro_Volta	His passion been always the study of what?	Electricity	NULL	easy	S09_set4_a10
+Alessandro_Volta	Is it true that Volta married the daughter of Count Ludovico Peregrini?	Yes	NULL	easy	S09_set4_a10
+Alessandro_Volta	Is it true that he published his invention of the Voltaic pile battery?	Yes	NULL	easy	S09_set4_a10
+Amedeo_Avogadro	Was Amedeo Avogadro Italian?	Yes	easy	easy	S09_set4_a8
+Amedeo_Avogadro	Was Amedeo Avogadro Italian?	yes	easy	easy	S09_set4_a8
+Amedeo_Avogadro	Did Amedeo Avogadro graduate?	Yes	easy	easy	S09_set4_a8
+Amedeo_Avogadro	Did Amedeo Avogadro graduate?	yes	easy	easy	S09_set4_a8
+Amedeo_Avogadro	Did Avogadro live in England?	No	easy	easy	S09_set4_a8
+Amedeo_Avogadro	Where was Avogadro a professor of physics?	University of Turin	medium	medium	S09_set4_a8
+Amedeo_Avogadro	Where was Avogadro a professor of physics?	University of Turin	medium	medium	S09_set4_a8
+Amedeo_Avogadro	How many children did Avogadro have?	six	medium	medium	S09_set4_a8
+Amedeo_Avogadro	How many children did Avogadro have?	six	medium	medium	S09_set4_a8
+Amedeo_Avogadro	What is Avogadro most noted for?	contributions to the theory of molarity and molecular weight	medium	medium	S09_set4_a8
+Amedeo_Avogadro	What is Avogadro most noted for?	contributions to the theory of molarity and molecular weight	medium	medium	S09_set4_a8
+Amedeo_Avogadro	What is Avogadro's number?	6.02214199x10 23	hard	hard	S09_set4_a8
+Amedeo_Avogadro	What is Avogadro's number?	6.02214199x10 23	hard	medium	S09_set4_a8
+Amedeo_Avogadro	In what year did Avogadro stop teaching at Turin University?	1853	hard	hard	S09_set4_a8
+Amedeo_Avogadro	In what year did Avogadro stop teaching at Turin University?	1823	hard	hard	S09_set4_a8
+Amedeo_Avogadro	What subject did Avogadro study first?	ecclesiastical law	hard	hard	S09_set4_a8
+Amedeo_Avogadro	What subject did Avogadro study first?	ecclesiastical law	hard	hard	S09_set4_a8
+Amedeo_Avogadro	What was Amedeo Avogadro`s birthplace?	Turin	NULL	hard	S09_set4_a8
+Amedeo_Avogadro	What was Amedeo Avogadro`s profession?	professor of physics	NULL	hard	S09_set4_a8
+Amedeo_Avogadro	How many years ago was it when he became a professor of physics at the University of Turin?	189	NULL	hard	S09_set4_a8
+Amedeo_Avogadro	What is Amedeo Avogadro`s first name?	Amedeo	NULL	hard	S09_set4_a8
+Amedeo_Avogadro	What is Amedeo Avogadro`s last name?	Avogadro	NULL	too easy	S09_set4_a8
+Amedeo_Avogadro	Was Amedeo Avogadro born in North America?	no	NULL	hard	S09_set4_a8
+Amedeo_Avogadro	Was King Victor  Emmanuel  III there to pay  homage  to Avogadro?	Yes	NULL	easy	S09_set4_a8
+Amedeo_Avogadro	In fact, was Avogadro `s  famous  1811  paper written in French . )	Yes	NULL	easy	S09_set4_a8
+Amedeo_Avogadro	Is avogadro `s  number commonly used to compute  the results  of chemical reactions?	Yes	NULL	easy	S09_set4_a8
+Amedeo_Avogadro	Hence, can relative molecular  masses be calculated from the masses  of gas samples?	Yes	NULL	easy	S09_set4_a8
+Amedeo_Avogadro	Did he publish his work?	Yes	NULL	hard	S09_set4_a8
+Amedeo_Avogadro	Did Avogadro submit his poem?	Yes.	NULL	medium	S09_set4_a8
+Amedeo_Avogadro	Is it true that loschmidt calculated first the value of Avogadro number?	Yes	NULL	easy	S09_set4_a8
+Amedeo_Avogadro	Loschmidt calculated first the value of what?	Avogadro's number	NULL	medium	S09_set4_a8
+Amedeo_Avogadro	Hence , can relative molecular masses be calculated from the masses of gas samples ?	yes	NULL	easy	S09_set4_a8
+Amedeo_Avogadro	Can the title of this famous 1811 paper be roughly translated into English as "essay on determining the Relative Masses of the Elementary Molecules of Bodies" ?	Yes.	NULL	easy	S09_set4_a8
+Amedeo_Avogadro	What is Amedeo Avogadro?	A person.	NULL	hard	S09_set4_a8
+Amedeo_Avogadro	Where is Amedeo Avogadro from?	Italy.	NULL	hard	S09_set4_a8
+Anders_Celsius	When did Anders Celcius publish his observations on the aurora borealis?	1733	easy	medium	S09_set4_a5
+Anders_Celsius	When did Anders Celcius publish his observations on the aurora borealis?	1733 	easy	medium	S09_set4_a5
+Anders_Celsius	What did Anders Celsius determine about the boiling of water?	He determined the dependence of the boiling of water with atmospheric pressure.	easy	medium	S09_set4_a5
+Anders_Celsius	What did Anders Celsius determine about the boiling of water?	dependence with atmospheric pressure	easy	hard	S09_set4_a5
+Anders_Celsius	Which temperature scale did Celsius propose?	Celcius	easy	medium	S09_set4_a5
+Anders_Celsius	Which temperature scale did Celsius propose?	 the Celsius temperature scale 	easy	medium	S09_set4_a5
+Anders_Celsius	What is the boiling point of water dependent on?	atmospheric pressure	medium	hard	S09_set4_a5
+Anders_Celsius	What is the boiling point of water dependent on?	atmospheric pressure	medium	medium	S09_set4_a5
+Anders_Celsius	Where was Celsius born?	Uppsala in Sweden	medium	medium	S09_set4_a5
+Anders_Celsius	Where was Celsius born?	Uppsala, Sweden	medium	medium	S09_set4_a5
+Anders_Celsius	Whad did Celsius report in his paper "Observations of two persistent degrees on a thermometer"?	the freezing point is independent of latitude	medium	medium	S09_set4_a5
+Anders_Celsius	How old was Celsius when he died?	42	hard	hard	S09_set4_a5
+Anders_Celsius	How old was Celsius when he died?	42	hard	hard	S09_set4_a5
+Anders_Celsius	What is temperature would water have to be to be halfway between its standard boiling and freezing point?	50	hard	hard	S09_set4_a5
+Anders_Celsius	What is the difference between Celsius' original temperature scale and the one we use today?	The scale was reversed by Carolus Linnaeus. 	hard	hard	S09_set4_a5
+Anders_Celsius	What is the difference between Celsius' original temperature scale and the one we use today?	scale was reversed 	hard	hard	S09_set4_a5
+Anders_Celsius	What was Anders Celsius`s profession?	professor of astronomy	NULL	medium	S09_set4_a5
+Anders_Celsius	How old was Anders Celsius when he died?	42	NULL	medium	S09_set4_a5
+Anders_Celsius	What is Anders Celsius`s last name?	Celsius	NULL	easy	S09_set4_a5
+Anders_Celsius	Was celsius born in Uppsala  in Sweden?	yes	NULL	easy	S09_set4_a5
+Anders_Celsius	Is The Celsius  crater  on the Moon named after him?	yes	NULL	easy	S09_set4_a5
+Anders_Celsius	Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astronomer?	yes	NULL	easy	S09_set4_a5
+Anders_Celsius	Was Anders Celsius the first  to perform  and  publish  careful experiments  aiming at the definition  of an international  temperature  scale  on scientific grounds?	yes	NULL	easy	S09_set4_a5
+Anders_Celsius	Was he professor at Uppsala University?	yes	NULL	easy	S09_set4_a5
+Anders_Celsius	Is it true that he published a collection of 316 observations?	yes	NULL	easy	S09_set4_a5
+Anders_Celsius	He published a collection of what?	observations	NULL	medium	S09_set4_a5
+Arabic_language	Pronouns in which location are marked for person , number and gender?	NULL	NULL	NULL	S09_set5_a3
+Arabic_language	Can syllables begin with a vowel?	no	NULL	easy	S09_set5_a3
+Arabic_language	Are calligraphers held in great esteem?	Yes	NULL	easy	S09_set5_a3
+Arabic_language	Have many European languages borrowed numerous words from it?	yes	NULL	easy	S09_set5_a3
+Arabic_language	Are the most active in Damascus and Cairo?	(bad question)	NULL		S09_set5_a3
+Arabic_language	Do arabs consider literary Arabic?	(bad question)	NULL		S09_set5_a3
+Arabic_language	Was Arabic vehicle in science?	NULL	NULL	NULL	S09_set5_a3
+Arabic_language	Is it true that the sociolinguistic situation of Arabic provides a prime example of the linguistic phenomenon?	NULL	NULL	NULL	S09_set5_a3
+Arabic_language	The sociolinguistic situation of Arabic provides a prime example of what?	the linguistic phenomenon of diglossia	NULL	medium	S09_set5_a3
+Arabic_language	Is arabic source of vocabulary?	NULL	NULL	NULL	S09_set5_a3
+Arabic_language	Is arabic language of the Qur an?	NULL	NULL	NULL	S09_set5_a3
+Arabic_language	Is it true that most speak Arabic as their native language?	NULL	NULL	NULL	S09_set5_a3
+Arabic_language	Are pronouns in Literary Arabic marked for person , number and gender ?	yes	NULL	easy	S09_set5_a3
+Arabic_language	However , are non-human plural nouns grammatically considered to be feminine singular ?	yes	NULL	easy	S09_set5_a3
+Bee	Is a bee an insect?	yes	easy	easy	S09_set1_a8
+Bee	Are bees related to ants?	yes	easy	hard	S09_set1_a8
+Bee	Have managed populations of European honey bees experienced substantial declines?	yes	easy	easy	S09_set1_a8
+Bee	Where do bees live?	in colonies	medium	medium	S09_set1_a8
+Bee	When do bumblebee colonies reach peak population?	mid to late summer	medium	medium	S09_set1_a8
+Bee	What do people commonly call cleptoparasitic bees?	cuckoo bees	medium	medium	S09_set1_a8
+Bee	How did vespoid wasps evolve?	from predatory ancestors	hard	medium	S09_set1_a8
+Bee	What do humans use bees for?	honey	hard	hard	S09_set1_a8
+Bee	Why do honey bee queens continue to lay eggs during the foraging season?	to replace daily casualties	hard	hard	S09_set1_a8
+Beijing	Does Beijing mean "northern capital"?	yes	easy	easy	S09_set3_a7
+Beijing	Are the caves of Dragon Bone Hill near the village of Zhoukoudian in Fangshan District?	yes	easy	easy	S09_set3_a7
+Beijing	Are hutongs disappearing?	yes	easy	easy	S09_set3_a7
+Beijing	When did Beijing host the Olympic Games?	2008	medium	medium	S09_set3_a7
+Beijing	When was the An Shi Rebellion launched?	in 755 AD	medium	medium	S09_set3_a7
+Beijing	In 1949, where did Communist forces enter without a fight?	Beiping	medium	medium	S09_set3_a7
+Beijing	When did Yuan Shikai die?	1916	hard	too hard	S09_set3_a7
+Beijing	Where does air pollution in Beijing come from?	surrounding cities and provinces	hard	medium	S09_set3_a7
+Beijing	As of August 1st, 2006, how many trains stop daily at the Beijing Railway Station or the Beijing West Railway Station?	167	hard	medium	S09_set3_a7
+Beijing	What is the name of a university (or similar institution for imparting higher education) in Beijing?	Tsinghua University	NULL	hard	S09_set3_a7
+Beijing	Are famous middle  schools  in Beijing :?	Yes	NULL	easy	S09_set3_a7
+Blaise_Pascal	Was Blaise Pascal a mathematician of the first order?	yes	easy	easy	S09_set4_a4
+Blaise_Pascal	Was Blaise Pascal a mathematician of the first order?	yes	easy	easy	S09_set4_a4
+Blaise_Pascal	Could Blaise Pascal move without crutches?	He could move without crutches until a paralytic attack in 1647.	easy	hard	S09_set4_a4
+Blaise_Pascal	Could Blaise Pascal move without crutches?	no	easy	hard	S09_set4_a4
+Blaise_Pascal	Has the name Pascal been given to the SI unit of pressure?	yes	easy	easy	S09_set4_a4
+Blaise_Pascal	Has the name Pascal been given to the SI unit of pressure?	yes	easy	easy	S09_set4_a4
+Blaise_Pascal	From what did Pascal suffer throughout his life?	ill health	medium	medium	S09_set4_a4
+Blaise_Pascal	From what did Pascal suffer throughout his life?	poor health	medium	medium	S09_set4_a4
+Blaise_Pascal	What did Pascal argue was as perfect as possible?	the procedure used in geometry 	medium	medium	S09_set4_a4
+Blaise_Pascal	What did Pascal argue was as perfect as possible?	the procedure used in geometry	medium	medium	S09_set4_a4
+Blaise_Pascal	What is the best physician?	Time	medium	medium	S09_set4_a4
+Blaise_Pascal	Who was the eldest sibling?	Gilberte	hard	hard	S09_set4_a4
+Blaise_Pascal	Aside from the Provincial Letters' religious influence, were they popular as a literary work?	yes	hard	easy	S09_set4_a4
+Blaise_Pascal	Aside from the Provincial Letters' religious influence, were they popular as a literary work?	yes	hard	easy	S09_set4_a4
+Blaise_Pascal	Of whose continual poor health was the cause never precisely determined?	Blaise Pascal	hard	hard	S09_set4_a4
+Cello	Is the violin cello a bowed string instrument?	Yes	easy	easy	S09_set2_a9
+Cello	Is the violin cello a bowed string instrument?	yes	easy	easy	S09_set2_a9
+Cello	Is the purfling just for decoration?	No	easy	easy	S09_set2_a9
+Cello	Are the z-holes used as access points to the interior of the cello? 	No	easy	easy	S09_set2_a9
+Cello	Are the z-holes used as access points to the interior of the cello? 	No	easy	easy	S09_set2_a9
+Cello	What does violincello mean?	Violincello means "little violene".	medium	medium	S09_set2_a9
+Cello	What are the two materials that bows are made of traditionally? 	Traditionally, bows are made from pernambuco or brazilwood.	medium	medium	S09_set2_a9
+Cello	What is used to tune a cello?	Pegs are used to tune a cello.	medium	medium	S09_set2_a9
+Cello	What is used to tune a cello?	the pegs	medium	medium	S09_set2_a9
+Cello	Which harmonics can produce any notes above middle C? 	Artificial harmonics can produce any notes above middle C.	hard	hard	S09_set2_a9
+Cello	Which harmonics can produce any notes above middle C? 	Artificial harmonics	hard	medium	S09_set2_a9
+Cello	Who referred to the cello as �basso de viola da braccio"?	Monteverdi referred to the cello as "basso de viola da braccio".	hard	medium	S09_set2_a9
+Cello	Who referred to the cello as �basso de viola da braccio"?	Monteverdi	hard	medium	S09_set2_a9
+Cello	Where is the violincello held?	The violincello is held on the shoulder.	hard	hard	S09_set2_a9
+Cello	Where is the violincello held?	on the shoulder	hard	medium	S09_set2_a9
+Cello	Is there cello in performances by Rihanna?	yes	easy	easy	S09_set2_a9
+Cello	Is there cello in performances by Rihanna?	Yes	easy	easy	S09_set2_a9
+Cello	Are cellos constructed with glue?	yes	easy	easy	S09_set2_a9
+Cello	Are cellos constructed with glue?	yes	easy	easy	S09_set2_a9
+Cello	Is the cello a stringed instrument?	yes	easy	easy	S09_set2_a9
+Cello	Is the cello a stringed instrument?	yes	easy	easy	S09_set2_a9
+Cello	What is cello an abbreviation of?	violoncello	medium	medium	S09_set2_a9
+Cello	What is cello an abbreviation of?	violoncello	medium	medium	S09_set2_a9
+Cello	What position is used to play the cello?	a gamba	medium	hard	S09_set2_a9
+Cello	What position is used to play the cello?	seated	medium	medium	S09_set2_a9
+Cello	What is a person who plays the cello called?	cellist	medium	medium	S09_set2_a9
+Cello	What is a person who plays the cello called?	cellist	medium	medium	S09_set2_a9
+Cello	Why is there purling on a cello?	to stop cracks from forming ****misspelled****	hard	hard	S09_set2_a9
+Cello	When did the first educational works appear for the cello?	the 18th century	hard	hard	S09_set2_a9
+Cello	When did the first educational works appear for the cello?	18th century	hard	hard	S09_set2_a9
+Cello	What cello manufacturer should I buy from if I want to play outside?	Luis & Clark	hard	hard	S09_set2_a9
+Cello	What cello manufacturer should I buy from if I want to play outside?	Luis & Clark	hard	hard	S09_set2_a9
+Charles-Augustin_de_Coulomb	Was Charles-Augustin de Coulomb a member of the National Institute?	Yes	easy	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was Charles-Augustin de Coulomb a member of the National Institute?	Yes	easy	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	easy	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	easy	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was Charles-Augustin de Coulomb's father's family in Montpellier? 	Yes	easy	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was Charles-Augustin de Coulomb's father's family in Montpellier? 	Yes	easy	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Where did Charles-Augustin de Coulomb die?	Charles-Augustin de Coulomb died in Paris.	medium	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	Where did Charles-Augustin de Coulomb die?	Paris, France	medium	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	When was Charles-Augustin de Coulomb permanently stationed in Paris?	Charles-Augustin de Coulomb was permanently stationed in Paris in 1781.	medium	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	When was Charles-Augustin de Coulomb permanently stationed in Paris?	Yes	medium	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	What contribution did Charles-Augustin de Coulomb make to the field of geotechnical engineering?	Retaining wall design	medium	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	Where did the construction of Fort Bourbon take place?	The construction of Fort Bourbon took place in Martinique.	hard	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	Where did the construction of Fort Bourbon take place?	Martinique 	hard	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	What is the definition of the electrostatic force of attraction and repulsion? 	Coulomb's law is the definition of the electrostatic force of attraction and repulsion.	hard	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	What is the definition of the electrostatic force of attraction and repulsion? 	Coulomb's Law	hard	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?	Charles-Augustin de Coulomb retired to a small estate he possessed at Blois on the outbreak of the revolution in 1789.	hard	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?	1789	hard	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	If Charles-Augustin de Coulomb was alive today, how old would he have been?	273	NULL	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	For how many years did Charles-Augustin de Coulomb live?	70	NULL	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	Did Charles-Augustin de Coulomb live to be 80 years old?	no	NULL	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	How old was Charles-Augustin de Coulomb when he died?	1806	NULL	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	How many years ago did he resign his appointment as intendant de eaux et fontaine ?	220	NULL	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	How many years ago did Charles-Augustin de Coulomb die?	203	NULL	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was The SI  unit  of charge , the  coulomb , named after him?	yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was coulomb born in Angoulême,  France ,  to a well  to do  family?	yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was his father ,  Henri  Coulomb , inspector of the Royal  Fields  in Montpellier?	Yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Is coulomb distinguished in the history  of mechanics  and  of electricity and  magnetism?	yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was Charles Augustin  de Coulomb  ( born  June  14 ,  1736 ,  Angoulême ,  France  -  died August 23 ,  1806 ,  Paris ,  France  ) a French  physicist?	yes	NULL	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	Does Coulomb leave a legacy?	yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	When was Charles-Augustin de Coulomb born?	June 14, 1736	NULL	medium	S09_set4_a6
+Charles-Augustin_de_Coulomb	Did he publish an important investigation of the laws of friction?	yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was Coulomb born in Angoulême, France, to a well to do family?	yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Was his father inspector of the Royal Fields?	yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	He discovered an inverse relationship of what?	distance and electric force	NULL	hard	S09_set4_a6
+Charles-Augustin_de_Coulomb	Is it true that coulomb leaves a legacy as a hero?	yes	NULL	easy	S09_set4_a6
+Charles-Augustin_de_Coulomb	Where is Charles-Augustin de Coulomb from?	France	NULL	medium	S09_set4_a6
+Chinese_language	What was Chinese language`s profession?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	What is Chinese language`s first name?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	What is Chinese language`s last name?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	How many offspring did Chinese language have?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Was Old Chinese wholly uninflected?	no	NULL	easy	S09_set5_a7
+Chinese_language	In North Korea, has Hanja been discontinued?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	The most  widespread is the Palladius  system?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Is the Vietnamese  term  for Chinese writing Hán t?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Did the Empire have little success?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	When are most of these groups mutually unintelligible?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	What is the population of Chinese language?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Is the most widespread the Palladius system?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Are most of these groups mutually unintelligible?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	In what country is Chinese language located?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Are The modern Chinese dialects more like a family?	yes	NULL	easy	S09_set5_a7
+Chinese_language	Is it true that one-fifth of world population speak some form of Chinese?	yes	NULL	easy	S09_set5_a7
+Chinese_language	One-fifth of world population speak some form of what?	Chinese	NULL	medium	S09_set5_a7
+Chinese_language	Is mandarin spoken Chinese distinguished by its high level?	no, it's distinguished by diversity	NULL	easy	S09_set5_a7
+Chinese_language	Is standard Mandarin language of People Republic?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Are there many systems of romanization for the chinese languages due to the Chinese`s own lack of phonetic transcription until modern times ?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	May the idea of Chinese as a language family suggest that the chinese identity is much more fragmentary and disunified than Chinese language actually is and as such is often looked upon as culturally and politically provocative ?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Are most chinese words formed out of native chinese morphemes , including words describing imported objects and ideas ?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	May a native of Guangzhou speak Standard Cantonese and putonghua , a resident of Taiwan , both taiwanese and putonghua/guoyu ?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Refer most chinese and chinese linguists to chinese as a single language and Chinese language`s subdivisions dialects , while others call chinese a language family ?	NULL	NULL	NULL	S09_set5_a7
+Chinese_language	Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?	NULL	NULL	NULL	S09_set5_a7
+Copenhagen	Copenhagen is the capital of what country?	Denmark	easy	easy	S09_set3_a8
+Copenhagen	Copenhagen is the capital of what country?	Denmark	easy	medium	S09_set3_a8
+Copenhagen	What is the population of Copenhagen?	1,161,063	easy	medium	S09_set3_a8
+Copenhagen	What is the population of Copenhagen?	1,153,615	easy	hard	S09_set3_a8
+Copenhagen	What transnational bridge was completed in 2000?	Oresund Bridge	easy	medium	S09_set3_a8
+Copenhagen	What transnational bridge was completed in 2000?	Oresund Bridge	easy	hard	S09_set3_a8
+Copenhagen	Why is Copenhagen a regional hub?	Its strategic location and excellent infrastructure	medium	hard	S09_set3_a8
+Copenhagen	Why is Copenhagen a regional hub?	Its strategic location and excellent infrastructure with the largest airport in Scandinavia[6] located 14 minutes by train from the city centre	medium	hard	S09_set3_a8
+Copenhagen	What happened to Copenhagen between 1251 and 1255?	a bunch of things	medium	too hard	S09_set3_a8
+Copenhagen	Is Copenhagen completely surrounded with water? 	No	medium	hard	S09_set3_a8
+Copenhagen	Copenhagen is ranked number one worldwide for which things?	Most Livable City in the World, 	hard	too hard	S09_set3_a8
+Copenhagen	Copenhagen is ranked number one worldwide for which things?	Most Livable City, Location Ranking Survey	hard	too hard	S09_set3_a8
+Copenhagen	Why did German troops occupy Copenhagen?	Because it was WW2	hard	too hard	S09_set3_a8
+Cymbal	Have cymbals been used historically to suggest bacchanal?	Yes	easy	easy	S09_set2_a6
+Cymbal	Have cymbals been used historically to suggest bacchanal?	Yes	easy	hard	S09_set2_a6
+Cymbal	Can the origins of cymbals be traced to prehistoric times?	Yes	easy	easy	S09_set2_a6
+Cymbal	Can the origins of cymbals be traced to prehistoric times?	Yes	easy	easy	S09_set2_a6
+Cymbal	Are cymbals used in moden orchestras?	Yes	easy	easy	S09_set2_a6
+Cymbal	Are cymbals used in moden orchestras?	Yes	easy	easy	S09_set2_a6
+Cymbal	What are the most common Cymbals?	 The most common Cymbals are the Hi-Hats, Crash, Splash, Ride, and China.	medium	medium	S09_set2_a6
+Cymbal	What are the most common Cymbals?	Hi-Hats, Crash, Splash, Ride, and China	medium	easy	S09_set2_a6
+Cymbal	What is the second main orchestral use of cymbals?	The suspended cymbal is the second main orchestral use of symbals.	medium	medium	S09_set2_a6
+Cymbal	What is the second main orchestral use of cymbals?	The suspended cymbal	medium	easy	S09_set2_a6
+Cymbal	What have clash cymbals traditionally been accompanied by?	Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.	medium	medium	S09_set2_a6
+Cymbal	What have clash cymbals traditionally been accompanied by?	The bass drum playing an identical part	medium	easy	S09_set2_a6
+Cymbal	What happens when the center of a Cymbal is hit?	It causes a sound which is in a higher register than the rest of the symbal.	hard	hard	S09_set2_a6
+Cymbal	What happens when the center of a Cymbal is hit?	It causes a sound which is in a higher register than the rest of the cymbal	hard	hard	S09_set2_a6
+Cymbal	What is an effective way to accentuate a note?	Playing a bass drum playing an identical part is an effective way to accentuate a note.	hard	hard	S09_set2_a6
+Cymbal	What is an effective way to accentuate a note?	The combination of a clash cymbol being accompanied by a bass drum playing an identical part, played loudly	hard	hard	S09_set2_a6
+Cymbal	From what type of Cymbals can a expert player obtain an enormous dynamic range?	An expert player can obtain an enormous dynamic range from crash cymbals.	hard	hard	S09_set2_a6
+Cymbal	From what type of Cymbals can a expert player obtain an enormous dynamic range?	Crash cymbals	hard	hard	S09_set2_a6
+Cymbal	Can the origins of cymbals be traced back to prehistoric times?	yes	easy	easy	S09_set2_a6
+Cymbal	Can the origins of cymbals be traced back to prehistoric times?	Yes	easy	easy	S09_set2_a6
+Cymbal	Did the modern hi-hat evolve from clash cymbals?	yes	easy	easy	S09_set2_a6
+Cymbal	Did the modern hi-hat evolve from clash cymbals?	Yes	easy	medium	S09_set2_a6
+Cymbal	Is the word cymbal derived from a Germanic word?	No	easy	easy	S09_set2_a6
+Cymbal	Is the word cymbal derived from a Germanic word?	No	easy	hard	S09_set2_a6
+Cymbal	What is the center of a cymbal called?	Bell	medium	medium	S09_set2_a6
+Cymbal	What is the center of a cymbal called?	bell	medium	medium	S09_set2_a6
+Cymbal	What part of the cymbal gets the best "crash"?	Edge or rim	medium	medium	S09_set2_a6
+Cymbal	What part of the cymbal gets the best "crash"?	edge or rim	medium	medium	S09_set2_a6
+Cymbal	What is the second main orchestral use of cymbals?	the suspended cymbal	medium	medium	S09_set2_a6
+Cymbal	What is the second main orchestral use of cymbals?	the suspended cymbal	medium	medium	S09_set2_a6
+Cymbal	What two instruments form the modern drum kit?	the cymbals and the drum	hard	hard	S09_set2_a6
+Cymbal	What Greek mythical creatures were depicted holding cymbals?	fauns and satyrs	hard	too hard	S09_set2_a6
+Cymbal	What Greek mythical creatures were depicted holding cymbals?	fauns and satyrs	hard	too hard	S09_set2_a6
+Cymbal	What are orchestral crash cymbals technically called?	a pair of clash cymbals	hard	hard	S09_set2_a6
+Cymbal	What are orchestral crash cymbals technically called?	clash cymbals	hard	hard	S09_set2_a6
+Dhaka	Is Dhaka the capital of Bangladesh?	Yes	easy	easy	S09_set3_a3
+Dhaka	Is Dhaka located on the eastern banks of the Buriganga River?	Yes	easy	medium	S09_set3_a3
+Dhaka	Is University of Dhaka the largest public university in Dhaka?	Yes	easy	hard	S09_set3_a3
+Dhaka	How much area does Dhaka cover?	1462.60 square kilometers	medium	medium	S09_set3_a3
+Dhaka	How many people did the 1970 Bhola cyclone kill?	500,000	medium	medium	S09_set3_a3
+Dhaka	When is the end of the independence war of Bangladesh?	December 16, 1971	medium	hard	S09_set3_a3
+Dhaka	Did the Mughals arrive in Dhaka?	Yes	hard	medium	S09_set3_a3
+Dhaka	Is University of Dhaka older than the Dhaka College?	No	hard	hard	S09_set3_a3
+English_language	What is given for the number of native speakers?	No figure is given for the number of native speakers.	NULL	hard	S09_set5_a1
+English_language	Is english an intonation  language?	Yes	NULL	easy	S09_set5_a1
+English_language	Is english a de  jure  official  language  of Israel?	no	NULL	easy	S09_set5_a1
+English_language	Is the stressed  syllable called the nuclear  syllable?	yes	NULL	easy	S09_set5_a1
+English_language	Does english grammar have minimal inflection?	Yes	NULL	easy	S09_set5_a1
+English_language	Did old English develop into Middle English?	Yes	NULL	easy	S09_set5_a1
+English_language	Are books, magazines, and newspapers written in English available?	yes	NULL	easy	S09_set5_a1
+English_language	Is the syntax of German different with different rules?	yes	NULL	easy	S09_set5_a1
+English_language	Is it true that semantics causes a number of false friends?	true	NULL	easy	S09_set5_a1
+English_language	Here , are all syllables unstressed , except the syllables/words best and done , which are stressed ?	yes	NULL	easy	S09_set5_a1
+English_language	Are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?	yes	NULL	easy	S09_set5_a1
+English_language	Are local variations in the formal written version of the language quite limited , being restricted largely to the spelling differences between British and American English ?	yes	NULL	easy	S09_set5_a1
+Flute	Is the flute a musical instrument?	Yes.	easy	easy	S09_set2_a5
+Flute	Is the flute a musical instrument?	Yes	easy	easy	S09_set2_a5
+Flute	Is it possible to open flutes at one or both ends?	Yes.	easy	easy	S09_set2_a5
+Flute	Is it possible to open flutes at one or both ends?	Yes	easy	easy	S09_set2_a5
+Flute	Are Indian concert flutes available in standard pitches?	Yes.	easy	easy	S09_set2_a5
+Flute	Are Indian concert flutes available in standard pitches?	Yes	easy	easy	S09_set2_a5
+Flute	What do we refer musicians who play flute?	A flute player, a flautist or a flutist. 	medium	medium	S09_set2_a5
+Flute	What do we refer musicians who play flute?	A flute player, a flautist, or a flutist	medium	medium	S09_set2_a5
+Flute	When was a three-holed flute made from a mammoth tusk discovered?	2004.	medium	medium	S09_set2_a5
+Flute	When was a three-holed flute made from a mammoth tusk discovered?	In 2004	medium	medium	S09_set2_a5
+Flute	When did the tin whistle first appear?	12th century.	medium	medium	S09_set2_a5
+Flute	When did the tin whistle first appear?	In the 12th century	medium	medium	S09_set2_a5
+Flute	What are the oldest known musical instruments?	A three holed-flute made from a mammoth tusk and two flutes made from swan's bones.	hard	medium	S09_set2_a5
+Flute	What are the oldest known musical instruments?	A three-holed flute made from a mammoth tusk and two flutes made from swans' bones are among the oldest known musical instruments	hard	hard	S09_set2_a5
+Flute	When was the pan flute spread to other parts of Europe?	7th century BC.	hard	hard	S09_set2_a5
+Flute	When was the pan flute spread to other parts of Europe?	After the 7th century BC	hard	hard	S09_set2_a5
+Flute	What does the air stream across this hole create?	A Bernoulli, or siphon.	hard	medium	S09_set2_a5
+Fox	Are foxes wary of humans?	Yes	easy	easy	S09_set1_a6
+Fox	Are foxes wary of humans?	Yes	easy	easy	S09_set1_a6
+Fox	Are fennec foxes endangered?	no	easy	easy	S09_set1_a6
+Fox	Are fennec foxes endangered?	No	easy	easy	S09_set1_a6
+Fox	Does the diet of foxes include reptiles?	yes	easy	easy	S09_set1_a6
+Fox	Does the diet of foxes include reptiles?	Yes	easy	easy	S09_set1_a6
+Fox	How long do most foxes live?	Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.	medium	medium	S09_set1_a6
+Fox	How long do most foxes live?	2 to 3 years	medium	medium	S09_set1_a6
+Fox	In what country did fox hunting originate?	the United Kingdom	medium	medium	S09_set1_a6
+Fox	In what country did fox hunting originate?	in the United Kingdom	medium	medium	S09_set1_a6
+Fox	What is the smallest species of fox?	The Fennec Fox is the smallest species of fox. 	medium	medium	S09_set1_a6
+Fox	What is the smallest species of fox?	the Fennec Fox	medium	medium	S09_set1_a6
+Fox	What are female foxes called?	vixens	hard	medium	S09_set1_a6
+Fox	What are female foxes called?	vixens	hard	medium	S09_set1_a6
+Fox	What is caching food?	Caching is burying it for later consumption, usually under leaves, snow, or soil.	hard	hard	S09_set1_a6
+Fox	What is caching food?	burying it for later consumption	hard	hard	S09_set1_a6
+Fox	Do foxes damage fruit on farms?	No	hard	hard	S09_set1_a6
+French_language	How many years ago did African people spread across 31 francophone African countries can speak French either as a first or second language?	2 years ago	NULL	hard	S09_set5_a5
+French_language	In Old French, was the plural  for animal animals?	Yes	NULL	easy	S09_set5_a5
+French_language	Is catalan the only  official  language  of Andorra?	Yes	NULL	easy	S09_set5_a5
+French_language	In Belgium, however, is quatre-vingts universally used?	Yes	NULL	easy	S09_set5_a5
+French_language	Where is it an official language?	NULL	NULL	NULL	S09_set5_a5
+French_language	Is french taught in many schools as a primary language along with Arabic?	Yes	NULL	easy	S09_set5_a5
+French_language	What is widely used by the Lebanese, especially for administrative purposes?	French	NULL	medium	S09_set5_a5
+French_language	Is french descendant of the Latin language?	Yes	NULL	easy	S09_set5_a5
+French_language	Are there also a variety of regional languages In addition?	Yes	NULL	medium	S09_set5_a5
+French_language	Is it true that france signed the European Charter for Regional Languages?	Yes	NULL	easy	S09_set5_a5
+French_language	France signed the European Charter for what?	NULL	NULL	NULL	S09_set5_a5
+French_language	Is french language of 20  %?	NULL	NULL	NULL	S09_set5_a5
+French_language	Is French language of Wallonia?	NULL	NULL	NULL	S09_set5_a5
+French_language	Are the prefixes en- and em- always nasalized ?	Yes	NULL	easy	S09_set5_a5
+French_language	Are French and German not official languages nor recognised minority languages in the flemish region , although there are a dozen municipalities with language facilities for French-speakers ?	NULL	NULL	NULL	S09_set5_a5
+French_language	Can the palatal nasal occur in word initial position ( e.g ?	NULL	NULL	NULL	S09_set5_a5
+German_language	How many years ago was the Luther Bible by Martin Luther printed?	475	NULL	hard	S09_set5_a2
+German_language	Is german an inflected  language?	yes	NULL	easy	S09_set5_a2
+German_language	In Switzerland, is ß used at all?	no	NULL	easy	S09_set5_a2
+German_language	Are there two common  word  orders?	yes	NULL	easy	S09_set5_a2
+German_language	Are feminines declined in the singular?	no	NULL	easy	S09_set5_a2
+German_language	Is 9 %  of the Internet  population German?	no	NULL	easy	S09_set5_a2
+German_language	Is german written using the Latin  alphabet?	Yes	NULL	easy	S09_set5_a2
+German_language	Was the Luther Bible by Martin Luther printed?	Yes	NULL	easy	S09_set5_a2
+German_language	Does a  tz indicate that the preceding vowel is short?	no	NULL	easy	S09_set5_a2
+German_language	Are there 622,650 speakers of German In Canada?	Yes	NULL	easy	S09_set5_a2
+German_language	Are there also large populations of German ancestry In Mexico?	yes	NULL	medium	S09_set5_a2
+German_language	Would Bundesländer not accept North Rhine Westphalia and Bavaria ?	yes	NULL	easy	S09_set5_a2
+German_language	Have adverbs of time to appear in the third place in the sentence , just after the predicate ?	Yes	NULL	easy	S09_set5_a2
+Giraffe	Do both sexes of giraffe have horns?	Yes	easy	easy	S09_set1_a5
+Giraffe	Do both sexes of giraffe have horns?	yes	easy	easy	S09_set1_a5
+Giraffe	Do giraffes give birth standing up?	Yes	easy	easy	S09_set1_a5
+Giraffe	Do giraffes give birth standing up?	yes	easy	medium	S09_set1_a5
+Giraffe	Are giraffes hunted for their hides?	Yes	easy	easy	S09_set1_a5
+Giraffe	Are giraffes hunted for their hides?	Yes	easy	easy	S09_set1_a5
+Giraffe	What areas can giraffes inhabit?	savannas, grasslands, or open woodlands	medium	medium	S09_set1_a5
+Giraffe	What areas can giraffes inhabit?	inhabit savannas, grasslands, or open woodlands	medium	easy	S09_set1_a5
+Giraffe	What will a giraffe use to clean off any bugs that appear on its face?	extremely long tongue 	medium	medium	S09_set1_a5
+Giraffe	What will a giraffe use to clean off any bugs that appear on its face?	It's extremely long tongue	medium	easy	S09_set1_a5
+Giraffe	How do giraffes defend themselves?	with a powerful kick	medium	medium	S09_set1_a5
+Giraffe	How do giraffes defend themselves?	With powerful kicks	medium	easy	S09_set1_a5
+Giraffe	Do male giraffes weigh more than female giraffes?	Yes	hard	medium	S09_set1_a5
+Giraffe	Do male giraffes weigh more than female giraffes?	yes	hard	hard	S09_set1_a5
+Giraffe	Do male giraffes have larger horns than female giraffes?	Yes	hard	medium	S09_set1_a5
+Giraffe	Do male giraffes have larger horns than female giraffes?	Yes	hard	medium	S09_set1_a5
+Giraffe	Are male females generally taller than female giraffes?	Yes	hard	medium	S09_set1_a5
+Henri_Becquerel	Was Henri Becquerel one of the discoverers of radioactivity?	Yes	easy	easy	S09_set4_a9
+Henri_Becquerel	Was Henri Becquerel one of the discoverers of radioactivity?	Yes	easy	easy	S09_set4_a9
+Henri_Becquerel	Is the SI unit for radioactivity named after him?	Yes	easy	medium	S09_set4_a9
+Henri_Becquerel	Is the SI unit for radioactivity named after him?	Yes	easy	easy	S09_set4_a9
+Henri_Becquerel	Was Henri Becquerel a French physicist?	Yes	easy	easy	S09_set4_a9
+Henri_Becquerel	Was Henri Becquerel a French physicist?	Yes	easy	easy	S09_set4_a9
+Henri_Becquerel	In what year did Henri Becquerel die?	1908	medium	medium	S09_set4_a9
+Henri_Becquerel	In what year did Henri Becquerel die?	August 24, 1908	medium	medium	S09_set4_a9
+Henri_Becquerel	Where was Henri Becquerel born?	 Paris 	medium	medium	S09_set4_a9
+Henri_Becquerel	Where was Henri Becquerel born?	Paris	medium	easy	S09_set4_a9
+Henri_Becquerel	In what year did Henri Becquerel win the Nobel Prize in Physics?	1903	medium	medium	S09_set4_a9
+Henri_Becquerel	In what year did Henri Becquerel win the Nobel Prize in Physics?	1903	medium	medium	S09_set4_a9
+Henri_Becquerel	Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	hard	easy	S09_set4_a9
+Henri_Becquerel	Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	hard	hard	S09_set4_a9
+Henri_Becquerel	Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	hard	hard	S09_set4_a9
+Henri_Becquerel	Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	hard	hard	S09_set4_a9
+Henri_Becquerel	Did Henri Becquerel intentionally discover radioactivity?	No	hard	hard	S09_set4_a9
+Henri_Becquerel	Did Henri Becquerel intentionally discover radioactivity?	He discovered it accidentally	hard	medium	S09_set4_a9
+Henri_Becquerel	If Henri Becquerel was alive today, how old would he have been?	157	NULL	hard	S09_set4_a9
+Henri_Becquerel	For how many years did Henri Becquerel live?	56	NULL	hard	S09_set4_a9
+Henri_Becquerel	Did Henri Becquerel live to be 80 years old?	no	NULL	medium	S09_set4_a9
+Henri_Becquerel	What was Henri Becquerel`s profession?	physisist	NULL	easy	S09_set4_a9
+Henri_Becquerel	How old was Henri Becquerel when he died?	53	NULL	too hard	S09_set4_a9
+Henri_Becquerel	How many years ago was it when he became the third in his family to occupy the physics chair at the Musum National d`Histoire Naturelle?	117	NULL	hard	S09_set4_a9
+Henri_Becquerel	In 1908, the year  of his death, was Becquerel elected Permanent Secretary  of the Académie  des  Sciences?	Yes	NULL	easy	S09_set4_a9
+Henri_Becquerel	When was Henri Becquerel born?	December 15, 1852	NULL	medium	S09_set4_a9
+Henri_Becquerel	Did he become chief engineer in the Department of Bridges and Highways?	Yes	NULL	easy	S09_set4_a9
+Henri_Becquerel	Did he share the Nobel Prize in Physics?	Yes	NULL	easy	S09_set4_a9
+Henri_Becquerel	Is it true that Becquerel wrapped a fluorescent substance in photographic plates?	Yes	NULL	easy	S09_set4_a9
+Henri_Becquerel	Becquerel wrapped a fluorescent substance in what?	photographic plates and black material	NULL	medium	S09_set4_a9
+Henri_Becquerel	Is there a Becquerel crater on the Moon for radioactivity?	Yes	NULL	easy	S09_set4_a9
+Henri_Becquerel	Must … One conclude from these experiments that the phosphorescent substance in question emits rays which pass through the opaque paper and reduces silver salts ?	Yes	NULL	easy	S09_set4_a9
+Henri_Becquerel	What is Henri Becquerel?	Henri Becquerel was a famous physicist.	NULL	easy	S09_set4_a9
+Henri_Becquerel	Where is Henri Becquerel from?	Paris	NULL	medium	S09_set4_a9
+Henri_Becquerel	What does Henri Becquerel do?	was a physisist	NULL	medium	S09_set4_a9
+Henri_Becquerel	What does Henri Becquerel do?	Henri Becquerel was a physicist.	NULL	hard	S09_set4_a9
+Isaac_Newton	Was Newton a English physicist?	Yes.	easy	easy	S09_set4_a1
+Isaac_Newton	Was Newton a English physicist?	Yes	easy	easy	S09_set4_a1
+Isaac_Newton	Did Newton reject the church's doctrine of the Trinity?	Newton may have rejected the church's doctrine of the Trinity.	easy	hard	S09_set4_a1
+Isaac_Newton	Did Newton reject the church's doctrine of the Trinity?	Maybe	easy	hard	S09_set4_a1
+Isaac_Newton	Was Newton admitted into Havard College?	No.	easy	easy	S09_set4_a1
+Isaac_Newton	Was Newton admitted into Havard College?	Maybe, but it doesn't say so in the article	easy	easy	S09_set4_a1
+Isaac_Newton	When was Newton's date of birth recorded?	Christmas Day, Decembeer 25, 1642.	medium	medium	S09_set4_a1
+Isaac_Newton	When was Newton's date of birth recorded?	his date of birth was recorded as Christmas Day, December 25, 1642	medium	easy	S09_set4_a1
+Isaac_Newton	How many laws of motion did Netwon have?	Three	medium	medium	S09_set4_a1
+Isaac_Newton	How many laws of motion did Netwon have?	Three	medium	easy	S09_set4_a1
+Isaac_Newton	Who did Newton see as the master creator?	God	medium	medium	S09_set4_a1
+Isaac_Newton	Who did Newton see as the master creator?	Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation	medium	easy	S09_set4_a1
+Isaac_Newton	When did Netwon investigate the refraction of light	From 1670 to 1672	hard	hard	S09_set4_a1
+Isaac_Newton	When did Netwon investigate the refraction of light	1670-1672	hard	hard	S09_set4_a1
+Isaac_Newton	What principles did Newton explain for mechanics?	The principles of conservation of momentum and angular momentum	hard	hard	S09_set4_a1
+Isaac_Newton	What principles did Newton explain for mechanics?	In mechanics, Newton enunciated the principles of conservation of momentum and angular momentum	hard	medium	S09_set4_a1
+Isaac_Newton	Interaction with what man stirred up Newton's interest in alchemy?	Henry More	hard	hard	S09_set4_a1
+Isaac_Newton	Interaction with what man stirred up Newton's interest in alchemy?	The contact with the theosophist Henry More, revived his interest in alchemy	hard	medium	S09_set4_a1
+Italian_language	What was Italian language`s profession?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	What is Italian language`s first name?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	What is Italian language`s last name?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	How many offspring did Italian language have?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Where did Italian language die?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Are geminate plosives and affricates realised as lengthened closures?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Where is this letter silent?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Is Italian one of official four languages?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Is it true that legge sulle fonti del diritto of 7?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Legge sulle fonti del diritto of what?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Is it true that Italian retained the contrast between short consonants?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Italian retained the contrast between what?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Is stress distinctive in most Romance languages?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Are the speakers who use italian as a second or cultural language estimated at around 110-120 million ?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Are front/back vowel rules for C and G similar in French , Romanian , Spanish , and to some extent English ?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	So can Italian language hear "istànbul " or "Ìstanbul" ?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Will , the vowel sounds be pronounced separately) ?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Can Regional differences be recognized by various factors : the openness of vowels , the length of the consonants , and influence of the local dialect ?	NULL	NULL	NULL	S09_set5_a9
+Italian_language	Give dictionaries the latter as an alternative pronunciation ?	NULL	NULL	NULL	S09_set5_a9
+James_Watt	James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?	The steam engine.	easy	medium	S09_set4_a2
+James_Watt	James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?	steam engine	easy	hard	S09_set4_a2
+James_Watt	James Watt was born where?	Greenock, a seaport on the Firth of Clyde	easy	medium	S09_set4_a2
+James_Watt	What was the name of James Watt's mother?	Agnus Muirhead	easy	medium	S09_set4_a2
+James_Watt	What was the name of James Watt's mother?	Agnes Muirhead	easy	hard	S09_set4_a2
+James_Watt	How many of James Watt's children did not live to adulthood?	3	medium	hard	S09_set4_a2
+James_Watt	How many of James Watt's children did not live to adulthood?	3	medium	too hard	S09_set4_a2
+James_Watt	James Watt ranked first among how many people in Charles Murray's survey of historiometry?	229	medium	medium	S09_set4_a2
+James_Watt	James Watt ranked first among how many people in Charles Murray's survey of historiometry?	229	medium	hard	S09_set4_a2
+James_Watt	In what year did James travel to Lodon to study instrument-making?	1753	hard	hard	S09_set4_a2
+James_Watt	For how many years of James Watt's life was his mother alive?	17 years	hard	hard	S09_set4_a2
+James_Watt	What is James Watt most famous for?	Steam engine.	hard	too hard	S09_set4_a2
+Japanese_language	What was Japanese language`s profession?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	What is Japanese language`s first name?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Is the basic sentence structure topic-comment?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Where are the circumstances complicated?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Does the   form indicate a perfect tense?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Is or a conception that forms the counterpart of dialect?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Do most Japanese people employ politeness?	yes	NULL	easy	S09_set5_a6
+Japanese_language	Is it true that Japanese borrowed a considerable number of words?	yes	NULL	easy	S09_set5_a6
+Japanese_language	Japanese borrowed a considerable number of what?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Is japanese language in the island?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Is there a form of the language?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Are the several dialects of Kagoshima famous to speakers?	yes	NULL	medium	S09_set5_a6
+Japanese_language	I.e "yamato words ") , which in scholarly contexts is sometimes referred to as ( or rarely , i.e "yamato words " -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Are japanese personal pronouns generally used only in situations requiring special emphasis as to who is doing what to whom ?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	: give "please Japanese language to Mr ?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Will a japanese person use vocabulary and inflections of the honorific register to refer to the in-group superior and Japanese language`s or Japanese language`s speech and actions ?	NULL	NULL	NULL	S09_set5_a6
+Japanese_language	Thus , can polite korean speech sound very presumptuous when translated verbatim into Japanese , as in korean Japanese language is acceptable and normal to say things like "our Mr ?	NULL	NULL	NULL	S09_set5_a6
+Lima	Is Lima the capital of Peru?	Yes.	easy	easy	S09_set3_a4
+Lima	Is the Museum of Gold in Lima?	Yes.	easy	hard	S09_set3_a4
+Lima	Does Lima have volleyball venues?	Yes.	easy	hard	S09_set3_a4
+Lima	When was Lima founded?	January 18,1535.	medium	medium	S09_set3_a4
+Lima	Where is the Park of the Reserve located?	Near the downtown area.	medium	medium	S09_set3_a4
+Lima	What is a colectivo?	Automobiles that renders express service on some major roads of the Lima Metropolitan Area.	medium	medium	S09_set3_a4
+Lima	Is the National University of San Marcos in Lima?	Yes.	hard	hard	S09_set3_a4
+Lima	Has the San Lorenzo Megaport Project been completed?	No.	hard	hard	S09_set3_a4
+Lima	How many years ago was the Lima Stock Exchange the most profitable in the world?	Three	NULL	hard	S09_set3_a4
+Lima	Is rainfall very low?	Yes.	NULL	easy	S09_set3_a4
+Lima	Is lima the capital  and  largest  city  of Peru?	Yes.	NULL	easy	S09_set3_a4
+Lima	Is The GDP  per capita in Lima $ 7,600  /  ref )?	Yes.	NULL	easy	S09_set3_a4
+Lima	The Spanish Crown named Pizarro governor of what?	Hemming.	NULL	medium	S09_set3_a4
+Lima	Is it true that the ideas of the Enlightenment shaped the development of the city?	Yes.	NULL	easy	S09_set3_a4
+Lima	The ideas of the Enlightenment shaped the development of what?	the city, Lima	NULL	medium	S09_set3_a4
+London	Is London the capital of the United Kingdom?	Yes	easy	easy	S09_set3_a1
+London	Is London the capital of the United Kingdom?	Yes	easy	easy	S09_set3_a1
+London	Does London's population draw from a wide range of religions?	Yes	easy	easy	S09_set3_a1
+London	Does London's population draw from a wide range of religions?	Yes	easy	easy	S09_set3_a1
+London	Did Caunte take control of the English throne in 101?	No	easy	easy	S09_set3_a1
+London	Over how many languages are spoken in London?	Over 300 languages are spoken in london	medium	medium	S09_set3_a1
+London	Over how many languages are spoken in London?	Over 300	medium	easy	S09_set3_a1
+London	What had the Anglo-Saxons created by the 600s?	By the 600s, the Anglo-Saxons had created a new S09_settlement called Lundenwic.	medium	medium	S09_set3_a1
+London	What had the Anglo-Saxons created by the 600s?	a new S09_settlement called Lundenwic	medium	easy	S09_set3_a1
+London	What city in the UK has been subjected to bouts of terrorism?	London has been subjected to bouts of terrorism.	hard	hard	S09_set3_a1
+London	What city in the UK has been subjected to bouts of terrorism?	London	hard	hard	S09_set3_a1
+London	What countries did James VI of Scotland unite?	James VI of Scotland united Scotland and England.	hard	hard	S09_set3_a1
+London	What countries did James VI of Scotland unite?	England and Scotland	hard	too hard	S09_set3_a1
+London	How did civil wars affect England during the Middle Ages?	London remained relatively untouched	hard	medium	S09_set3_a1
+Lyre	Are the strings of a classical lyre made of gut?	Yes	easy	hard	S09_set2_a10
+Lyre	Does a classical lyre have a sound-chest?	Yes	easy	easy	S09_set2_a10
+Lyre	Is lyre played in mordern Greece?	No	easy	easy	S09_set2_a10
+Lyre	Which part of the strings does the left hand touch?	The lower strings	medium	medium	S09_set2_a10
+Lyre	In which place is lyre still played?	North-eastern parts of Africa	medium	medium	S09_set2_a10
+Lyre	Does a classical lyre have a fingerboard?	Yes	hard	hard	S09_set2_a10
+Lyre	Is a guitar played with a plectrum like a lyre?	Yes	hard	easy	S09_set2_a10
+Michael_Faraday	Was Michael Faraday an English chemist?	yes	easy	easy	S09_set4_a7
+Michael_Faraday	Was Michael Faraday an English chemist?	yes	easy	easy	S09_set4_a7
+Michael_Faraday	Was Faraday a devout Christian?	yes	easy	easy	S09_set4_a7
+Michael_Faraday	Was Faraday a devout Christian?	yes	easy	easy	S09_set4_a7
+Michael_Faraday	Was Faraday considered a gentleman?	no	easy	easy	S09_set4_a7
+Michael_Faraday	Was Faraday considered a gentleman?	no	easy	easy	S09_set4_a7
+Michael_Faraday	Who was a member of the Sandemanian sect of Christianity?	yes	medium	easy	S09_set4_a7
+Michael_Faraday	Who was a member of the Sandemanian sect of Christianity?	Faraday	medium	medium	S09_set4_a7
+Michael_Faraday	What did Joseph Henry likely discover?	self-induction	medium	medium	S09_set4_a7
+Michael_Faraday	What did Joseph Henry likely discover?	self-induction	medium	medium	S09_set4_a7
+Michael_Faraday	What did the University of Oxford grant Faraday?	a Doctor of Civil Law degree (honorary)	medium	medium	S09_set4_a7
+Michael_Faraday	What did the University of Oxford grant Faraday?	Doctor of Civil Law degree (honorary)	medium	medium	S09_set4_a7
+Michael_Faraday	Who was made to travel outside the coach?	Faraday	hard	hard	S09_set4_a7
+Michael_Faraday	Did Faraday construct the ancestor of modern power generators?	yes	hard	easy	S09_set4_a7
+Michael_Faraday	Did Faraday construct the ancestor of modern power generators?	yes	hard	easy	S09_set4_a7
+Michael_Faraday	Did Faraday lecture on education in 1854?	yes	hard	easy	S09_set4_a7
+Michael_Faraday	Did Faraday lecture on education in 1854?	yes	hard	hard	S09_set4_a7
+Michael_Faraday	Did Faraday receive an extensive formal education?	no	easy	medium	S09_set4_a7
+Michael_Faraday	Did Faraday receive an extensive formal education?	no	easy	easy	S09_set4_a7
+Michael_Faraday	Did Faraday discover the chemical substance benzene?	yes	easy	easy	S09_set4_a7
+Michael_Faraday	Did Faraday discover the chemical substance benzene?	yes	easy	easy	S09_set4_a7
+Michael_Faraday	Was Faraday born in England?	yes	easy	easy	S09_set4_a7
+Michael_Faraday	Was Faraday born in England?	yes	easy	easy	S09_set4_a7
+Michael_Faraday	What do some historians of science refer to Faraday as?	the best experimentalist in the history of science	medium	medium	S09_set4_a7
+Michael_Faraday	What do some historians of science refer to Faraday as?	best experimentalist in the history of science	medium	medium	S09_set4_a7
+Michael_Faraday	Who was the sponsor and mentor of Faraday?	John 'Mad Jack' Fuller	medium	medium	S09_set4_a7
+Michael_Faraday	Who was the sponsor and mentor of Faraday?	John 'Mad Jack' Fuller	medium	medium	S09_set4_a7
+Michael_Faraday	What did Faraday invent that is used almost universally in science laboratories?	the Bunsen burner	medium	medium	S09_set4_a7
+Michael_Faraday	What did Faraday invent that is used almost universally in science laboratories?	Bunsen burner	medium	medium	S09_set4_a7
+Michael_Faraday	Does the production of chemical weapons raise an ethical issue?	yes	hard	easy	S09_set4_a7
+Michael_Faraday	What was the Faraday effect first called?	diamagnetism	hard	hard	S09_set4_a7
+Michael_Faraday	What was the Faraday effect first called?	diamagnetism	hard	medium	S09_set4_a7
+Michael_Faraday	Can you meet someone through attending a church?	yes	hard	easy	S09_set4_a7
+Michael_Faraday	What was Michael Faraday`s birthplace?	Newington Butts	NULL	hard	S09_set4_a7
+Michael_Faraday	What was Michael Faraday`s profession?	chemist and physicist	NULL	hard	S09_set4_a7
+Michael_Faraday	How many years ago did Faraday report on the first synthesis of compound make from carbon and chlorine , c 2 h 6 and c 2 h 4 ?	189	NULL	hard	S09_set4_a7
+Michael_Faraday	How many years ago was it when he discovered the phenomenon that he named diamagnetism , and what is now called the Faraday effect?	164	NULL	hard	S09_set4_a7
+Michael_Faraday	How many years ago was it when Faraday wrote a letter to The Times on the subject of the foul condition of the River Thames , which resulted in an oft-reprinted cartoon in Punch?	154	NULL	hard	S09_set4_a7
+Michael_Faraday	How many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?	162	NULL	hard	S09_set4_a7
+Michael_Faraday	Was education another area  of service  for Faraday?	yes	NULL	easy	S09_set4_a7
+Michael_Faraday	Was faraday `s  earliest  chemical  work as an assistant  to Davy?	Yes	NULL	easy	S09_set4_a7
+Michael_Faraday	Who died at his house at Hampton Court on August 25, 1867?	Faraday	NULL	medium	S09_set4_a7
+Michael_Faraday	When was Michael Faraday born?	September 22, 1791	NULL	easy	S09_set4_a7
+Michael_Faraday	Where did he serve two terms?	the Church of Scotland	NULL	hard	S09_set4_a7
+Michael_Faraday	Who was born in Newington Butts, near present-day South London, England?	Michael Faraday	NULL	medium	S09_set4_a7
+Michael_Faraday	Is it true that institution formed the foundation of electric motor technology?	no	NULL	hard	S09_set4_a7
+Michael_Faraday	Institution formed the foundation of what?	modern electromagnetic technology	NULL	medium	S09_set4_a7
+Michael_Faraday	Was his father member of the Sandemanian sect?	yes	NULL	easy	S09_set4_a7
+Michael_Faraday	Was faraday Christian of the small Sandemanian denomination?	yes	NULL	easy	S09_set4_a7
+Nassau	Is Nassau Sound a body of water in Maine?	no	easy	easy	S09_set3_a2
+Nassau	Was Nassau placed in operation by Robert Fulton?	yes	easy	easy	S09_set3_a2
+Nassau	Who was Fort Nassau built by?	the Dutch	medium	medium	S09_set3_a2
+Nassau	What is Nassau Coliseum?	an arena in Uniondale, New York, USA	medium	medium	S09_set3_a2
+Nassau	What was the Dead or Alive 4 fighting arena modeled after?	a Magnetic Accelerator Cannon station from Halo 2	medium	medium	S09_set3_a2
+Nassau	Is Nassau Range the highest mountain range in the world?	no	hard	easy	S09_set3_a2
+Nassau	Is Nassau County named after a German town?	yes	hard	hard	S09_set3_a2
+Nassau	Does the United States have a base near Glasgow?	yes	hard	hard	S09_set3_a2
+Nikola_Tesla	Did Tesla study electrical engineering?	Yes	easy	easy	S09_set4_a3
+Nikola_Tesla	Did Tesla study electrical engineering?	yes	easy	easy	S09_set4_a3
+Nikola_Tesla	Was Tesla born in the United States?	No	easy	easy	S09_set4_a3
+Nikola_Tesla	Was Tesla born in the United States?	no	easy	easy	S09_set4_a3
+Nikola_Tesla	Was Tesla hired by Edison?	Yes	easy	easy	S09_set4_a3
+Nikola_Tesla	Was Tesla hired by Edison?	yes	easy	easy	S09_set4_a3
+Nikola_Tesla	When did Tesla demonstrate wireless communication (radio)?	1893	medium	medium	S09_set4_a3
+Nikola_Tesla	When did Tesla demonstrate wireless communication (radio)?	1893	medium	hard	S09_set4_a3
+Nikola_Tesla	What is the SI unit measuring magnetic flux density or magnetic induction?	the tesla	medium	medium	S09_set4_a3
+Nikola_Tesla	What is the SI unit measuring magnetic flux density or magnetic induction?	the tesla	medium	medium	S09_set4_a3
+Nikola_Tesla	Was Tesla regarded as a mad scientist?	Yes	medium	easy	S09_set4_a3
+Nikola_Tesla	Was Tesla regarded as a mad scientist?	yes	medium	easy	S09_set4_a3
+Nikola_Tesla	What type of current did Tesla invent?	AC	hard	hard	S09_set4_a3
+Nikola_Tesla	Who was the victor of the "War of Currents"?	Tesla	hard	hard	S09_set4_a3
+Nikola_Tesla	Who was the victor of the "War of Currents"?	Nikola Tesla	hard	hard	S09_set4_a3
+Nikola_Tesla	Where did Tesla study electrical engineering?	the Austrian Polytechnic in Graz 	hard	medium	S09_set4_a3
+Nikola_Tesla	Where did Tesla study electrical engineering?	Austrian Polytechnic in Graz	hard	medium	S09_set4_a3
+Ottawa	Is Ottawa the capital of Canada?	Yes	easy	easy	S09_set3_a5
+Ottawa	Does Ottawa sit on the Ottowa River?	Yes	easy	easy	S09_set3_a5
+Ottawa	Do small tremors occur in Ottawa?	Yes	easy	hard	S09_set3_a5
+Ottawa	What is Ottawa's population?	1,190,982	medium	medium	S09_set3_a5
+Ottawa	What are Ottawa's primary industries?	Logging and lumber	medium	hard	S09_set3_a5
+Ottawa	What is Ottawa's junior ice hockey team?	the Ottawa 67's	medium	medium	S09_set3_a5
+Ottawa	What is Ottawa's major league hockey team?	the Ottawa Senators	hard	medium	S09_set3_a5
+Ottawa	What are Carleton University's athletic teams called?	Carleton Ravens	hard	medium	S09_set3_a5
+Ottawa	Is Ottawa colder than Moscow in January?	Yes	hard	easy	S09_set3_a5
+Ottawa	Is Ottawa on a river?	yes	easy	easy	S09_set3_a5
+Ottawa	Is Ottawa on a river?	yes	easy	easy	S09_set3_a5
+Ottawa	Does it snow in Ottawa?	yes	easy	easy	S09_set3_a5
+Ottawa	Does it snow in Ottawa?	yes	easy	easy	S09_set3_a5
+Ottawa	Was there a cholera outbreak in 1832?	yes	easy	easy	S09_set3_a5
+Ottawa	Was there a cholera outbreak in 1832?	yes	easy	easy	S09_set3_a5
+Ottawa	Who is the mayor of Ottawa?	Larry O'Brien	medium	medium	S09_set3_a5
+Ottawa	Who is the mayor of Ottawa?	Larry O'Brien	medium	medium	S09_set3_a5
+Ottawa	How many townships are in Ottawa?	eleven	medium	medium	S09_set3_a5
+Ottawa	How many townships are in Ottawa?	eleven	medium	easy	S09_set3_a5
+Ottawa	What's the main highway in Ottawa?	Highway 417, The Queensway	medium	medium	S09_set3_a5
+Ottawa	What's the main highway in Ottawa?	provinical Highway 417	medium	medium	S09_set3_a5
+Ottawa	What was Ottawa's name in 1850?	Bytown	hard	hard	S09_set3_a5
+Ottawa	What was Ottawa's name in 1850?	Bytown	hard	hard	S09_set3_a5
+Ottawa	Based on the average, in what year will the next small tremor occur in Ottawa?	2009	hard	hard	S09_set3_a5
+Ottawa	Based on the average, in what year will the next small tremor occur in Ottawa?	2009	hard	hard	S09_set3_a5
+Ottawa	Where were immigrants from in the 1800s?	Irish	hard	hard	S09_set3_a5
+Ottawa	Where were immigrants from in the 1800s?	Ireland	hard	hard	S09_set3_a5
+Ottawa	Are there also discussions of having OC Transpo Light Rail and STO Transitway networks linking on the Gatineau side of the Ottawa River ?	Yes.	NULL	easy	S09_set3_a5
+Otter	Does the giant otter live in South America?	Yes	easy	easy	S09_set1_a7
+Otter	Does the giant otter live in South America?	yes	easy	easy	S09_set1_a7
+Otter	Do otters have claws?	Yes	easy	easy	S09_set1_a7
+Otter	Do otters have claws?	yes	easy	easy	S09_set1_a7
+Otter	Do otters eat fish?	Yes	easy	easy	S09_set1_a7
+Otter	Do otters eat fish?	yes	easy	easy	S09_set1_a7
+Otter	What is an otter's den called?	A holt	medium	medium	S09_set1_a7
+Otter	What is an otter's den called?	holt	medium	medium	S09_set1_a7
+Otter	Where do sea otters live?	Beside water	medium	medium	S09_set1_a7
+Otter	Where do sea otters live?	Pacific coast of North America	medium	medium	S09_set1_a7
+Otter	Why are otters vulnerable to prey depletion?	Prey-dependence	medium	medium	S09_set1_a7
+Otter	Why are otters vulnerable to prey depletion?	prey-dependency	medium	medium	S09_set1_a7
+Otter	Do otters enjoy playing?	Yes	hard	hard	S09_set1_a7
+Otter	Do otters enjoy playing?	yes	hard	easy	S09_set1_a7
+Otter	Do sea otters have a layer of fat like whales?	No	hard	hard	S09_set1_a7
+Otter	Do sea otters have a layer of fat like whales?	no	hard	easy	S09_set1_a7
+Otter	Is the otter in the same family as the badger?	Yes	hard	hard	S09_set1_a7
+Otter	Is the otter in the same family as the badger?	yes	hard	easy	S09_set1_a7
+Santiago	Are there any cities named Santiago in the United States?	yes	easy	hard	S09_set3_a6
+Santiago	Are there any cities named Santiago in the United States?	Yes	easy	hard	S09_set3_a6
+Santiago	Was Santiago the name of an indie/punk band?	yes	easy	easy	S09_set3_a6
+Santiago	Was Santiago the name of an indie/punk band?	Yes	easy	easy	S09_set3_a6
+Santiago	Is Santiago a name in Spanish?	yes	easy	easy	S09_set3_a6
+Santiago	Is Santiago a name in Spanish?	Yes	easy	medium	S09_set3_a6
+Santiago	What is the origin of the name Santiago?	Spanish for St. James	medium	hard	S09_set3_a6
+Santiago	What is the origin of the name Santiago?	sanit + iago, James	medium	hard	S09_set3_a6
+Santiago	Who has released an album or song named Santiago?	The Chieftains; Loreena McKennitt	medium	medium	S09_set3_a6
+Santiago	Who has released an album or song named Santiago?	The Chieftains and Loreena McKennitt	medium	hard	S09_set3_a6
+Santiago	What is the Order of Santiago?	a Spanish knightly order	medium	medium	S09_set3_a6
+Santiago	What is the Order of Santiago?	a Spanish Knightly order	medium	medium	S09_set3_a6
+Santiago	What notable people have been named Santiago?	Benito Santiago, Hugo Santiago, Joey Santiago, Liliana Santiago, Rafael Santiago Maria, Santiago Caballero, Santiago Cabrera; James, son of Zebedee	hard	hard	S09_set3_a6
+Santiago	What notable people have been named Santiago?	Benito, Hugo, and others	hard	hard	S09_set3_a6
+Santiago	What fictional stories include a main character named Santiago?	Gears of War, Rainbow Six: Covert Operations Essentials, Death Foretold by Gabriel García Márquez, Ernest Hemingway's The Old Man and the Sea, the television series Babylon 5, Anne Rice's novel Interview with the Vampire, aulo Coelho's The Alchemist (novel), the television show Friday Night Lights	hard	hard	S09_set3_a6
+Santiago	What fictional stories include a main character named Santiago?	Interview with the Vampire, The Alchemist, and others	hard	hard	S09_set3_a6
+Santiago	Is Santiago the national capital of a country?	Yes	NULL	easy	S09_set3_a6
+Santiago	Is santiago Spanish for St. James  ( from santo ,  saint  +  iago ,  James  )?	Yes	NULL	easy	S09_set3_a6
+Santiago	Is santiago Spanish for St. James?	Yes	NULL	easy	S09_set3_a6
+Santiago	What is Santiago?	Santiago is Spanish for St. James. It is also the name of places in Argentina, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Cuba, the Dominican Republic, Ecuador, Guatemala, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, the Philippines, Portugal, Spain, the United States, Venezuela, and the Amazon. It is also the name of a baseball catcher, a film director, a guitarist, an economist, a footballer, a DJ, an actor, and James, son of Zebedee. Fictional people with this name include a character from Gears of War, a character from Chronicle of a Death Foretold, a character in Old Man and the Sea, a character in Babylon 5, a character in Interview with the Vampire, the main character of The Alchemist, and a character on Friday Night Lights. There has also been a battle of Santiago de Cuba, a couple of bands named Santiago, an Order of Santiago, and "Santiago" as a shortened form of the Reconquista battle cry.	NULL	too hard	S09_set3_a6
+Spanish_language	Are countries without in red?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	However, is English the official  language?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Are most Spanish  speakers in Latin America?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Are countries where is a regionalism in green?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	The deeper  the blue  is, is the more  predominant?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Are these marked with an asterisk  ( *  )?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Did the language lose its official status?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Where do about 400 million people speak Spanish?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	What kind of instrument is the spanish language?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Is the lexical similarity with Italian estimated at 82%?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Is spanish an official language of the European Union?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	What is an official language of the European Union?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Is it true that mexico contains the largest population of Spanish speakers?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Mexico contains the largest population of what?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Is this phenomenon notable in Brazil?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Is spanish one of the official languages?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Is universidad de México Instituto Cervantes Spanish language of Spain?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Is spanish language of the European Union?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Pasan en consecuencia , las palabras que comienzan por estas dos letras , o que las contienen , a alfabetizarse en los lugares que les corresponden dentro de la c y de la l , respectivamente ?	NULL	NULL	NULL	S09_set5_a8
+Spanish_language	Allow the common features of the writing systems of the Romance languages for a greater amount of interlingual reading comprehension than oral communication would ?	NULL	NULL	NULL	S09_set5_a8
+Swahili_language	What was Swahili language`s profession?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	How many years ago was an interterritorial conference held at Mombasa ?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	What is Swahili language`s last name?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	How many years ago was it when the rulers of Zanzibar organized trading expeditions into the interior of the mainland , up to the various lakes in the continent `s Great Rift Valley?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	What is Swahili language`s first name?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Where did Swahili language die?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Has swahili no diphthongs?	No	NULL	easy	S09_set5_a4
+Swahili_language	Is a third  prefix the object  prefix?	Yes	NULL	easy	S09_set5_a4
+Swahili_language	When is /ref>	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Swahili unusual?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Where does swahili grammar arrange nouns?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	What was the only good candidate in these two colonies?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Do some writers mark aspirated consonants?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Was one key step in spreading Swahili to create a standard written language?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Are there today more speakers in Kenya of the Somali coast?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Is      / ref Swahili unusual among sub-Saharan languages?	Yes	NULL	easy	S09_set5_a4
+Swahili_language	The pronunciation of the phoneme / u / stands between what?	NULL	NULL	NULL	S09_set5_a4
+Swahili_language	Are vowels never reduced , regardless of stress ?	Yes	NULL	easy	S09_set5_a4
+Swan	Does the Australian Black Swan have white feathers on its wings?	yes	easy	medium	S09_set1_a10
+Swan	Does the Australian Black Swan have white feathers on its wings?	Yes	easy	medium	S09_set1_a10
+Swan	Do swans belong to the family Anatidae?	yes	easy	easy	S09_set1_a10
+Swan	Do swans belong to the family Anatidae?	Yes	easy	easy	S09_set1_a10
+Swan	Can black swans swim with only one leg?	yes	easy	easy	S09_set1_a10
+Swan	Can black swans swim with only one leg?	Yes	easy	medium	S09_set1_a10
+Swan	What are young swans known as?	cygnets	medium	medium	S09_set1_a10
+Swan	What are young swans known as?	Cygnets	medium	easy	S09_set1_a10
+Swan	What is the Irish legend of the Children of Lir about?	a stepmother transforming her children into swans for 900 years	medium	medium	S09_set1_a10
+Swan	What is the Irish legend of the Children of Lir about?	A stepmother transforming her children into swans for 900 years	medium	medium	S09_set1_a10
+Swan	What is the Sanskrit word for swan?	hamsa or hansa	medium	medium	S09_set1_a10
+Swan	What is the Sanskrit word for swan?	Hamsa or hansa	medium	easy	S09_set1_a10
+Swan	Which album was the song "The Bonny Swans" from?	The Mask and Mirror	hard	medium	S09_set1_a10
+Swan	Which album was the song "The Bonny Swans" from?	The Mask and Mirror	hard	easy	S09_set1_a10
+Swan	What is the Polish word for swan?	&#321;ab&#281;d&#378;	hard	hard	S09_set1_a10
+Swan	What is the Polish word for swan?	Łabędź	hard	easy	S09_set1_a10
+Swan	Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?	Swan Lake	hard	hard	S09_set1_a10
+Swan	Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?	Swan Lake	hard	hard	S09_set1_a10
+Swan	Are swan birds of the family Anatidae?	Yes.	easy	easy	S09_set1_a10
+Swan	Are swan birds of the family Anatidae?	Yes	easy	easy	S09_set1_a10
+Swan	Do swans feature strongly in mythology?	Yes.	easy	easy	S09_set1_a10
+Swan	Do swans feature strongly in mythology?	Yes	easy	easy	S09_set1_a10
+Swan	Is the Trumpeter Swan the largest bird?	It is the largest bird of North America.	easy	easy	S09_set1_a10
+Swan	Is the Trumpeter Swan the largest bird?	The Trumpeter Swan is the largest bird of North America	easy	medium	S09_set1_a10
+Swan	What is the name of young swans?	Cygnets.	medium	medium	S09_set1_a10
+Swan	What is the name of young swans?	Cygnets	medium	medium	S09_set1_a10
+Swan	Where is the word "swan" derived from?	Old English swan.	medium	medium	S09_set1_a10
+Swan	Where is the word "swan" derived from?	The Old English word "swan," derived from the Indo-European root "*swen", meaning to sound or to sing	medium	medium	S09_set1_a10
+Swan	What is the best known story about a swan?	The Ugly Duckling fable.	medium	medium	S09_set1_a10
+Swan	What is the best known story about a swan?	The Ugly Duckling	medium	medium	S09_set1_a10
+Swan	Are swans and ducks birds of the same family?	Yes.	hard	hard	S09_set1_a10
+Swan	Are swans and ducks birds of the same family?	Yes	hard	easy	S09_set1_a10
+Swan	What is the name of an adult female?	Pen.	hard	medium	S09_set1_a10
+Swan	What is the name of an adult female?	An adult female swan is called a pen.	hard	medium	S09_set1_a10
+Swan	What is the color of the Australian Black Swan?	Completely black except for the white flight feathers on its wings.	hard	hard	S09_set1_a10
+Swan	What is the color of the Australian Black Swan?	Completely black except for the white feathers on its wings	hard	medium	S09_set1_a10
+Tiger	Is the Tiger a member of the Felidar family?	No.	easy	easy	S09_set1_a3
+Tiger	Is the Tiger a member of the Felidar family?	No	easy	easy	S09_set1_a3
+Tiger	Are tigers solitary animals?	Yes.	easy	easy	S09_set1_a3
+Tiger	Are tigers solitary animals?	Yes	easy	easy	S09_set1_a3
+Tiger	Are panthers a type of tiger?	No.	easy	hard	S09_set1_a3
+Tiger	Are panthers a type of tiger?	No	easy	hard	S09_set1_a3
+Tiger	What do tigers' powerfully built legs and shoulders allow tigers to do?	They have the ability to pull down prey substantially heavier than themselves.	medium	medium	S09_set1_a3
+Tiger	What do tigers' powerfully built legs and shoulders allow tigers to do?	have the ability to pull down prey substantially heavier than themselves	medium	medium	S09_set1_a3
+Tiger	What would a tiger do when seized by a crocodile?	A tiger will strike at the reptile's eyes with its paws.	medium	medium	S09_set1_a3
+Tiger	What would a tiger do when seized by a crocodile?	strike at the reptile's eyes with its paws	medium	medium	S09_set1_a3
+Tiger	What are the typical features of a tiger country?	It will always have good cover, it will always be close to water and plenty of prey.	medium	medium	S09_set1_a3
+Tiger	What are the typical features of a tiger country?	Good cover, close to water, and plenty of prey 	medium	medium	S09_set1_a3
+Tiger	Would it be common for tigers to mate in January?	Yes.	hard	hard	S09_set1_a3
+Tiger	Would it be common for tigers to mate in January?	Yes	hard	medium	S09_set1_a3
+Tiger	About how many square kilometers would be needed to house 3 female tigers?	60 square kilometers	hard	hard	S09_set1_a3
+Tiger	About how many square kilometers would be needed to house 3 female tigers?	60	hard	hard	S09_set1_a3
+Tiger	Would a tiger be likely to feedon smaller animals, such as mice?	Yes	hard	hard	S09_set1_a3
+Trumpet	Did the predecessors to trumpets have valves?	No	easy	easy	S09_set2_a3
+Trumpet	Are trumpets constructed of brass?	Yes	easy	easy	S09_set2_a3
+Trumpet	Is the bass trumpet the smallest trumpet?	No	easy	hard	S09_set2_a3
+Trumpet	What musical styles is the trumpet used in?	Ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.	medium	medium	S09_set2_a3
+Trumpet	What is the most common type of trumpet?	The B trumpet.	medium	medium	S09_set2_a3
+Trumpet	How does a trumpet produce sound?	By blowing air through closed lips.	medium	medium	S09_set2_a3
+Trumpet	How do trumpets compensate for wolf tones?	Somce trumpetes have a slide mechanism built in to compensate.	hard	hard	S09_set2_a3
+Trumpet	Did Miles Davis play the trumpet?	Yes	hard	hard	S09_set2_a3
+Trumpet	Does a trumpet have a mellower tone than a cornet?	No	hard	hard	S09_set2_a3
+Turtle	Is the name of the upper shell of a turtle called the plastron?	No.	easy	hard	S09_set1_a4
+Turtle	Do scutes fall away from the turtle's shell?	Some of the scutes eventually fall away from the shell.	easy	hard	S09_set1_a4
+Turtle	Do scutes fall away from the turtle's shell?	yes, eventually	easy	easy	S09_set1_a4
+Turtle	Do Terrestrial tortoises have short feet?	Yes.	easy	easy	S09_set1_a4
+Turtle	Do Terrestrial tortoises have short feet?	yes	easy	easy	S09_set1_a4
+Turtle	How many groups are turtles broken down into?	Two	medium	medium	S09_set1_a4
+Turtle	How many groups are turtles broken down into?	two	medium	easy	S09_set1_a4
+Turtle	Where are the only surviving giant tortoises?	They are on the Seychelles and Galápagos Islands.	medium	medium	S09_set1_a4
+Turtle	Where are the only surviving giant tortoises?	Seychelles and Gal�pagos Islands	medium	easy	S09_set1_a4
+Turtle	How do turtles chew food?	Turtles use their jaws to cut and chew food.	medium	medium	S09_set1_a4
+Turtle	How do turtles chew food?	Turtles use their jaws to cut and chew food	medium	easy	S09_set1_a4
+Turtle	Are tortoises land based?	Yes.	hard	easy	S09_set1_a4
+Turtle	Are tortoises land based?	yes	hard	easy	S09_set1_a4
+Turtle	Where are turtle eggs layed?	Turtles lay eggs on land.	hard	hard	S09_set1_a4
+Turtle	Where are turtle eggs layed?	on land	hard	easy	S09_set1_a4
+Turtle	Is turtle soup considered a delicacy?	No.	hard	easy	S09_set1_a4
+Turtle	Is turtle soup considered a delicacy?	yes	hard	hard	S09_set1_a4
+Turtle	Are Testudines the crown group of the superorder Chelonia?	yes	easy	easy	S09_set1_a9
+Turtle	Are Testudines the crown group of the superorder Chelonia?	Yes	easy	easy	S09_set1_a9
+Turtle	Do turtles breathe air?	yes	easy	hard	S09_set1_a9
+Turtle	Do turtles breathe air?	Yes	easy	easy	S09_set1_a9
+Turtle	Are harvesting wild turtles legal anywhere?	yes	easy	easy	S09_set1_a9
+Turtle	Approximately how many species of Testudines are alive today?	300	medium	medium	S09_set1_a9
+Turtle	Approximately how many species of Testudines are alive today?	300	medium	easy	S09_set1_a9
+Turtle	Where is harvesting wild turtles legal?	Florida	medium	easy	S09_set1_a9
+Turtle	Where is harvesting wild turtles legal?	Florida	medium	easy	S09_set1_a9
+Turtle	What was the largest ever chelonian?	Archelon ischyros	medium	easy	S09_set1_a9
+Turtle	What was the largest ever chelonian?	The great letherback sea tutrtle	medium	easy	S09_set1_a9
+Turtle	Is there a way to approximate the age of a turtle?	yes	hard	easy	S09_set1_a9
+Turtle	Is there a way to approximate the age of a turtle?	Yes	hard	easy	S09_set1_a9
+Turtle	Can turtles spend all their time underwater?	no	hard	too hard	S09_set1_a9
+Turtle	Can turtles spend all their time underwater?	No	hard	easy	S09_set1_a9
+Violin	Are violinists and fiddlers the same thing?	Yes	easy	easy	S09_set2_a2
+Violin	Are violinists and fiddlers the same thing?	Yes	easy	easy	S09_set2_a2
+Violin	Are violins a single size?	no	easy	hard	S09_set2_a2
+Violin	Are violins a single size?	No	easy	hard	S09_set2_a2
+Violin	Are violas and cellos in the same family of instruments as violins?	yes	easy	easy	S09_set2_a2
+Violin	Are violas and cellos in the same family of instruments as violins?	Yes	easy	easy	S09_set2_a2
+Violin	Where does the word "violin" come from?	the Middle Latin word vitula, meaning "stringed instrument"	medium	medium	S09_set2_a2
+Violin	Where does the word "violin" come from?	the Middle Latin word vitula	medium	medium	S09_set2_a2
+Violin	What is someone who makes violins called?	a luthier, or simply a violin maker	medium	medium	S09_set2_a2
+Violin	What is someone who makes violins called?	a luthier	medium	medium	S09_set2_a2
+Violin	How many strings does a violin usually have?	four	medium	medium	S09_set2_a2
+Violin	How many strings does a violin usually have?	4	medium	medium	S09_set2_a2
+Violin	What are violins made of?	different types of wood	hard	medium	S09_set2_a2
+Violin	What are violins made of?	maple, ebony, sheep gut	hard	hard	S09_set2_a2
+Violin	How long have people been making instruments like violins?	since ancient times	hard	hard	S09_set2_a2
+Violin	How long have people been making instruments like violins?	since 1555	hard	hard	S09_set2_a2
+Violin	Whate is the usual pitch range of a violin?	from G3 to C8	hard	hard	S09_set2_a2
+Violin	Whate is the usual pitch range of a violin?	from G3 to C8	hard	hard	S09_set2_a2
+Xylophone	Are xylophone bars made of rosewood?	yes	easy	easy	S09_set2_a8
+Xylophone	Is the xylophone a precursor to the vibraphone?	yes	easy	easy	S09_set2_a8
+Xylophone	Were ancient mallets made of copper?	no	easy	easy	S09_set2_a8
+Xylophone	Where did the xylophone originate?	Indonesia	medium	medium	S09_set2_a8
+Xylophone	What is the earliest historical reference in Europe?	Arnold Schlick's Spiegel der Orgelmacher und Organisten	medium	medium	S09_set2_a8
+Xylophone	How are western-style xylophones characterised?	by a bright, sharp tone and high register	medium	medium	S09_set2_a8
+Xylophone	Can a xylophone be 3 octaves?	yes	hard	hard	S09_set2_a8
+Xylophone	Can a short bar follow a long bar?	no	hard	hard	S09_set2_a8
+Xylophone	Did vibraphones exist in 1930?	yes	hard	hard	S09_set2_a8

@@ -1,0 +1,10 @@
+Isaac_Newton
+James_Watt
+Nikola_Tesla
+Blaise_Pascal
+Anders_Celsius
+Charles-Augustin_de_Coulomb
+Michael_Faraday
+Amedeo_Avogadro
+Henri_Becquerel
+Alessandro_Volta

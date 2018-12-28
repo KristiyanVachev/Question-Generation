@@ -1,0 +1,10 @@
+English_language
+German_language
+Arabic_language
+Swahili_language
+French_language
+Japanese_language
+Chinese_language
+Spanish_language
+Italian_language
+Vietnamese_language

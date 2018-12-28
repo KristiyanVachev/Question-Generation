@@ -1,0 +1,10 @@
+Kangaroo
+Leopard
+Penguin
+Polar_bear
+Elephant
+Wolf
+Otter
+Beetle
+Turtle
+Duck
