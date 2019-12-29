@@ -1,5 +1,5 @@
 #  Question Generation
-This project was originally intended for an AI course at Sofia University. During it's execution, I was constraint on time and couldn't implement all the ideas I had, but I plan to continue working.
+This project was originally intended for an AI course at Sofia University. During it's execution, I was constraint on time and couldn't implement all the ideas I had, but I plan to continue working on it.
 
 ## General idea
 The idea is to generate multiple choice answers from text, by splitting this complex problem to simpler steps:
@@ -7,7 +7,7 @@ The idea is to generate multiple choice answers from text, by splitting this com
  - **Identify keywords** from the text and use them as answers to the questions.
  - **Replace the answer** from the sentence with *blank space* and use it as the base for the question.
  - **Transform the sentence** with a blank space for answer to a more *question-like sentence*.
- - **Generate words**, that are similar to the answer, as *incorrect answers*.
+ - **Generate distractors**, words that are similar to the answer, as *incorrect answers*.
 
 ![Question generation step by step gif](https://media.giphy.com/media/1n4JPydITD3mGvTZBZ/giphy.gif)
 
@@ -23,11 +23,11 @@ You can read about the insights I've found in the *Data Exploration* jupyter not
 ### Identifying answers
 My assumption was that **words from the text would be great answers for questions**. All I needed to do was to decide which words, or short phrases, are good enough to become answers.
 
-I decided to do a binary classification on each word, or named entity, from the text. [spaCy](https://spacy.io/) really helped me with the word tagging.
+I decided to do a binary classification on each word from the text. [spaCy](https://spacy.io/) really helped me with the word tagging.
 
 #### Feature engineering
 I pretty much needed to create the entire dataset for the binary classification. 
-I extracted each non-stop word from the Wikipedia articles in the SQuAD dataset added some features on it:
+I extracted each non-stop word from the paragraphs of each question in the SQuAD dataset and added some features on it like:
 
  - **Part of speech**
  - Is it a **Named entity**
@@ -35,20 +35,20 @@ I extracted each non-stop word from the Wikipedia articles in the SQuAD dataset 
  - **Shape** - whether it's only alpha characters, digits, has punctuation (xxxx, dddd, Xxx X. Xxxx)
  - **Word count**
 
-I think that a **TF-IDF** score and **cosine similarity** *to the title* could be the most influential when training but I didn't have the time.
+And the label **isAnswer** - whether the word extracted from the paragraph is the same and in the same place as the answer of the SQuAD question. 
 
-I would like to implement them and think of some other features - maybe whether it's in the start, middle or end of a sentence,  information about the words surrounding it and more... 
+Some other features like **TF-IDF** score and **cosine similarity** *to the title* would be the great, but I didn't have the time to add them.
 
-After that it would be useful to see which features are most important for the algorithm.
+Other than those, it's up to our imagination to create new features - maybe whether it's in the start, middle or end of a sentence,  information about the words surrounding it and more... Though before adding more feature it would be nice to have a metric to assess whether the feature is going to be useful or not.
 
-#### Training
+#### Model training
 I found the problem similar to *spam filtering*, where a common approach is to tag each word of an email as coming from a spam or not a spam email.
 
 I used scikit-learn's **Gaussian Naive Bayes** algorithm to classify each word whether it's an answer.
 
 The results were surprisingly good - at a quick glance, the algorithm classified most of the words as answers. The ones it didn't were in fact unfit.
 
-I would like to play a bit more with the data and try to get fewer words classified as answers. I think it would be a great idea to get a score *(0 to 1)* for each word. That way I could start generating questions for the words with the highest score and eventually, for the lower scoring ones I would expect lower quality questions.
+The cool thing about *Naive Bayes* is that you get the **probability** for each word. In the demo I've used that to order the words from the most likely answer to the least likely.
 
 ### Creating questions
 Another assumption I had was that **the sentence of an answer could easily be turned to a question**. Just by placing a *blank space* in the position of the answer in the text I get a **"cloze" question** *(sentence with a blank space for the missing word)*
@@ -76,7 +76,21 @@ I removed the words that **weren't the same part of speech** or **the same named
 
 I would like to find a dataset with multiple choice answers and see if I can create a *ML model* for generating better incorrect answers.
 
-## Future work
-I find this topic quite interesting and with a lot of potential. I would like to try all of the ideas I didn't have time for and explore some more.  
+## Results
+After adding a Demo project, the generated questions aren't really fit to go into a classroom instantly, but they are't bad either. 
 
-After that, I will merge all of the work I've done, into a script that would directly generate a *json* file with questions and answers ready to be used in an application. 
+The cool thing is the **simplicity** and **modularity** of the approach, where you could find where it's doing bad (*say it's classifying verbs*) and plug a fix into it. 
+
+Having a complex Neural Network (*like all the papers on the topics do*) will probably do better, especially in the age we're living. But the great thing I found out about this approach, is that it's like a *gateway for a software engineer*, with his software engineering mindset, to get into the field of AI and see meaningful results. 
+
+## Future work (*updated*)
+I find this topic quite interesting and with a lot of potential. I would probably continue working in this field.
+
+ I even enrolled in a *Masters of Data Mining* and will probably do some similar projects. I will link anything useful here.
+
+I've already put some more time on finishing the project, but I would like to transform it more to a tutorial about getting into the field of AI while having the ability to easily extend it with new custom features. 
+
+## Updates
+
+**Update - 29.12.19:** 
+The repository has become pretty popular, so I added a new notebook (*Demo.ipynb*) that combines all the modules and generates questions for any text. I reordered the other notebooks and documented the code (a bit better). 
