@@ -1,4 +1,6 @@
+
 #  Question Generation
+
 This project was originally intended for an AI course at Sofia University. During it's execution, I was constraint on time and couldn't implement all the ideas I had, but I plan to continue working on it.
 
 ## General idea
@@ -10,6 +12,37 @@ The idea is to generate multiple choice answers from text, by splitting this com
  - **Generate distractors**, words that are similar to the answer, as *incorrect answers*.
 
 ![Question generation step by step gif](https://media.giphy.com/media/1n4JPydITD3mGvTZBZ/giphy.gif)
+
+## Installation
+
+### Creating a virtual environment *(optional)*
+To avoid any conflicts with python packages from other projects, it is a good practice to create a [virtual environment](https://docs.python.org/3/library/venv.html) in which the packages will be installed. If you do not want to this you can skip the next commands and directly install the the requirements.txt file. 
+
+Create a virtual environment :
+
+    python -m venn venv
+
+Enter the virtual environment:
+
+*Windows:*
+
+    . .\venv\Scripts\activate
+
+*Linux or MacOS*
+
+    source .\venv\Scripts\activate
+
+Install ipython inside the venv:
+
+    ipython kernel install --user --name=.venv
+
+Install jupyter lab inside the venv:
+
+    pip install jupyterlab
+
+### Installing packages
+
+    pip install -r .\requirements.txt 
 
 ## Execution
 
@@ -94,3 +127,8 @@ I've already put some more time on finishing the project, but I would like to tr
 
 **Update - 29.12.19:** 
 The repository has become pretty popular, so I added a new notebook (*Demo.ipynb*) that combines all the modules and generates questions for any text. I reordered the other notebooks and documented the code (a bit better). 
+
+**Update - 09.03.21:** 
+Added a requirements.txt file with instructions to run a virtual environment and fixed the bug a with *ValueError: operands could not be broadcast together with shapes (230, 121) (83, )*
+
+I have also started working on my Master's thesis with a similar topic of Question Generation. If you are interested in the field or looking into improving upon this repo, you can check this great [article by Adam Montgomerie](https://amontgomerie.github.io/2020/07/30/question-generator.html)  or this [repo by Patil Suraj](https://github.com/patil-suraj/question_generation) where they are using [transformers](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) which seems to be the current trend in NLP.
