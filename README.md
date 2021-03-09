@@ -20,7 +20,7 @@ To avoid any conflicts with python packages from other projects, it is a good pr
 
 Create a virtual environment :
 
-    python -m venn venv
+    python -m venv venv
 
 Enter the virtual environment:
 
@@ -43,6 +43,10 @@ Install jupyter lab inside the venv:
 ### Installing packages
 
     pip install -r .\requirements.txt 
+    
+### Run jupyter
+
+    jupyter lab
 
 ## Execution
 
