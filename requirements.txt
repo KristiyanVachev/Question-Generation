@@ -1,0 +1,7 @@
+pandas==1.2.3
+spacy==2.2.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
+gensim==3.8.3
+sklearn
+matplotlib==3.3.4
+nltk==3.5
