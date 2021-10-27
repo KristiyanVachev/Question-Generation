@@ -1,7 +1,10 @@
 
 #  Question Generation
 
-This project was originally intended for an AI course at Sofia University. During it's execution, I was constraint on time and couldn't implement all the ideas I had, but I plan to continue working on it.
+This project was originally intended for an AI course at Sofia University. During it's execution, I was constraint on time and couldn't implement all the ideas I had, but I plan to continue working on it... and I did pick up the topic for my Master's thesis, using **T5 Transformers to generate question-answer pairs along with distractors**. Check it out in the [Question-Generation-Transformers](https://github.com/KristiyanVachev/Question-Generation-Transformers) repository. 
+
+The approach for identifyng keywords used as target answers has been accepted in the RANLP2021 conference - [Generating Answer Candidates for Quizzes and Answer-Aware Question Generators](https://arxiv.org/abs/2108.12898v1).
+
 
 ## General idea
 The idea is to generate multiple choice answers from text, by splitting this complex problem to simpler steps:
@@ -135,4 +138,11 @@ The repository has become pretty popular, so I added a new notebook (*Demo.ipynb
 **Update - 09.03.21:** 
 Added a requirements.txt file with instructions to run a virtual environment and fixed the bug a with *ValueError: operands could not be broadcast together with shapes (230, 121) (83, )*
 
-I have also started working on my Master's thesis with a similar topic of Question Generation. If you are interested in the field or looking into improving upon this repo, you can check this great [article by Adam Montgomerie](https://amontgomerie.github.io/2020/07/30/question-generator.html)  or this [repo by Patil Suraj](https://github.com/patil-suraj/question_generation) where they are using [transformers](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) which seems to be the current trend in NLP.
+I have also started working on my Master's thesis with a similar topic of Question Generation. 
+
+**Update - 27.10.21:** 
+I have uploaded the code for my Master's thesis in the [Question-Generation-Transformers](https://github.com/KristiyanVachev/Question-Generation-Transformers) repository. I highly encourage you to check it out. 
+
+Additionally the approach using a classfier to pick the answer candidates has been accepted as a students paper in the RANLP2021 conference. [Paper here](https://arxiv.org/abs/2108.12898v1).
+
+
